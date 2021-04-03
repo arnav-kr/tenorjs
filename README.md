@@ -1,2 +1,2 @@
 # tenorjs
-An unofficial client side JavaScript library for Tenor API 
+A lightweight client side JavaScript library for Tenor API 
