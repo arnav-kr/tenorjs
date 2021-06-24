@@ -1,5 +1,5 @@
 {
-  "name": "tenor",
+  "name": "@arnav-kr/tenorjs",
   "description": "The API Library for Tenor API",
   "version": "1.0.0",
   "scripts": {
